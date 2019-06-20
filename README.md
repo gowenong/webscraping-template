@@ -8,7 +8,7 @@ Make sure to install BeautifulSoup with **`pip install bs4`** and requests with 
 ## Beautiful Soup Documentation (bs4):
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
-### Useful videos (Code in manual-scrapes are based off/inspired by these):
+### Useful videos for a more in-depth tutorial on HOW to web scrape (Code in manual-scrapes are based off/inspired by these):
 **Web Scraping with BeautifulSoup and Requests | Corey Schafer:** https://www.youtube.com/watch?v=ng2o98k983k
 
 **Web Scraping with Python and BeautifulSoup | Data Science Dojo:** https://www.youtube.com/watch?v=XQgXKtPSzUI
