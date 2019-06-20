@@ -16,7 +16,7 @@ source = requests.get('https://www.newegg.com/p/pl?N=100007671').text
 soup = BeautifulSoup(source, 'html.parser')
 containers = soup.find_all('div', class_='item-container')
 
-csv_file = open('manual_gpu_table.csv', 'w') #second arg is "write"
+csv_file = open('manual_cpu_table.csv', 'w') #second arg is "write"
 
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['brand', 'product name', 'price', 'rating', '# ratings', 'shipping'])

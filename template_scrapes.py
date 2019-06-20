@@ -2,7 +2,7 @@ from scraping_template import og_scrape
 
 """ Newegg CPUs """
 url = 'https://www.newegg.com/p/pl?N=100007671'
-csv_name = 'template_gpu_table.csv'
+csv_name = 'template_cpu_table.csv'
 brand_value = "c.find('div', class_='item-branding').a.img['title']"
 product_value = "c.find('a', class_='item-title').text"
 price_value = "c.find('li', class_='price-current').strong.text + c.find('li', class_='price-current').sup.text"
