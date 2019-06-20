@@ -10,4 +10,5 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ### Useful videos (Code in manual-scrapes are based off/inspired by these):
 **Web Scraping with BeautifulSoup and Requests | Corey Schafer:** https://www.youtube.com/watch?v=ng2o98k983k
+
 **Web Scraping with Python and BeautifulSoup | Data Science Dojo:** https://www.youtube.com/watch?v=XQgXKtPSzUI
