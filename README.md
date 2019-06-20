@@ -1,7 +1,7 @@
 # Webscraping Template
 A Python script that converts website url and targeted elements into a readable csv table, customizable for any website. The template blog/gpu csv files should have an identical output as the manual blog/gpu csv files in the manual-scrapes folder. simple.html is a short HTML file you can practice webscraping on.
 
-Make sure to install BeautifulSoup with **`pip install bs4`** and requests with **`pip install requests`**
+Make sure to install BeautifulSoup with `pip install bs4` and requests with `pip install requests`
 
 **See Wiki for a more thorough walkthrough.**
 
